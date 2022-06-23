@@ -135,3 +135,4 @@ Albigensian
 relativity
 wolfram's
 blackjacks
+Emacs's
