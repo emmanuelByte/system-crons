@@ -406,3 +406,4 @@ dinging
 witnessing
 Long
 unlace
+regularizes
