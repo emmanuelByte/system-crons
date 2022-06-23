@@ -260,3 +260,4 @@ complexion
 bosh
 rusts
 deludes
+Nyerere
