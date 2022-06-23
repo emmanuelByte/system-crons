@@ -77,3 +77,4 @@ collectible
 boils
 tares
 infantrymen
+thorn
