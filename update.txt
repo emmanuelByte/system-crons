@@ -76,3 +76,4 @@ gollies
 collectible
 boils
 tares
+infantrymen
