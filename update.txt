@@ -261,3 +261,4 @@ bosh
 rusts
 deludes
 Nyerere
+enmities
