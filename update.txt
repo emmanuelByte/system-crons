@@ -223,3 +223,4 @@ juncos
 libretto
 overhang
 auger's
+sweetmeats
