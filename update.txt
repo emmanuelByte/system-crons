@@ -34,3 +34,4 @@ lexicographer
 darneder
 lynchpin's
 entitle
+Wesak
