@@ -366,3 +366,4 @@ ravenous
 docilely
 greasiest
 motivational
+declarative
