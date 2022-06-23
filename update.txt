@@ -33,3 +33,4 @@ doughiest
 lexicographer
 darneder
 lynchpin's
+entitle
