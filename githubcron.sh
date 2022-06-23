@@ -1,7 +1,7 @@
 #!/bin/bash
 IP=$(curl -s -o /dev/null -w "%{http_code}"  https://github.com/)
 WORD=$(cat /usr/share/dict/words | sort -R | head -1)
-echo WORD
+echo "$WORD"
 #echo "$IP"
 
 if [ "$IP" == 200 ]
