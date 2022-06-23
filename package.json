@@ -1,0 +1,11 @@
+{
+  "name": "system-crons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:emmanuelByte/system-crons.git",
+  "author": "emanuelone <emanuel4mechie@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
