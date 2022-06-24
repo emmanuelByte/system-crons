@@ -2678,3 +2678,4 @@ coheres
 technocrat
 Nemesis
 veterans
+scantiness
