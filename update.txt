@@ -1836,3 +1836,4 @@ sporing
 fingerings
 capsized
 collaborative
+course
