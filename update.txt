@@ -1115,3 +1115,4 @@ panhandling
 sororities
 Mercado
 offloaded
+misapply
