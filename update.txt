@@ -1048,3 +1048,4 @@ nothing
 Wrigley's
 Andrew's
 XEmacs
+slovens
