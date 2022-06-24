@@ -1016,3 +1016,4 @@ yellower
 servo
 arbiter
 shrine's
+stoker
