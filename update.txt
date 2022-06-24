@@ -1245,3 +1245,4 @@ swigs
 innovator
 sensations
 outbuildings
+capitalize
