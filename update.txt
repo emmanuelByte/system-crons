@@ -1834,3 +1834,4 @@ overshadow
 lithospheres
 sporing
 fingerings
+capsized
