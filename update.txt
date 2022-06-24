@@ -1119,3 +1119,4 @@ misapply
 thunderbolt
 pursuant
 Ptolemy's
+undernourished
