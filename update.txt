@@ -817,3 +817,4 @@ fixable
 Camry
 nonevent
 straights
+smooch's
