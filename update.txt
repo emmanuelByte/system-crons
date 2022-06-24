@@ -1528,3 +1528,4 @@ slothful
 Sanskrit
 welcome
 degree
+magnet
