@@ -2287,3 +2287,4 @@ stern's
 training
 sheave
 spades
+endued
