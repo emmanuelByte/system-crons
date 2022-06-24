@@ -2567,3 +2567,4 @@ adjourned
 cutoff
 assizes
 Sindbad's
+chart
