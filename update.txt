@@ -2096,3 +2096,4 @@ planetarium
 orphan
 productiveness
 worry's
+abnegated
