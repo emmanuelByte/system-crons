@@ -1224,3 +1224,4 @@ nettle's
 banditry's
 implementer
 beeping
+entitled
