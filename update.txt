@@ -757,3 +757,4 @@ scored
 magnum
 sunbeams
 Leghorn's
+husky's
