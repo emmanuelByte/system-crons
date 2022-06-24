@@ -1971,3 +1971,4 @@ alacrity
 reward's
 innovator's
 ammeter's
+usefully
