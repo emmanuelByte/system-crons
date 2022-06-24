@@ -3,7 +3,7 @@ const shell = require('shelljs')
 
 var cron = require('node-cron');
 
-cron.schedule('* */1 * * *', () => {
+cron.schedule('0 */1 * * *', () => {
   //console.log('running a task every 1 hour');
  shell.exec('./githubcron.sh')
 })
