@@ -1480,3 +1480,4 @@ jointed
 fertile
 farrow
 offloading
+careered
