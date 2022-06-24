@@ -864,3 +864,4 @@ vatting
 plangent
 intranet
 guttersnipe
+polynomials
