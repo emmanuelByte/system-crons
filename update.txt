@@ -718,3 +718,4 @@ dredged
 expediency
 recruiters
 Malamud
+Kano
