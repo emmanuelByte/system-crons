@@ -1938,3 +1938,4 @@ percentile
 leisure
 naughtiness's
 plowshare
+Defoe's
