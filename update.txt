@@ -774,3 +774,4 @@ occasioning
 interleave
 quantify
 afterthoughts
+degeneracy
