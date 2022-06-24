@@ -1240,3 +1240,4 @@ dialogs
 developing
 goddamn
 giggled
+foretelling
