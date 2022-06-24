@@ -1249,3 +1249,4 @@ capitalize
 dominoes
 establishes
 seaman's
+width
