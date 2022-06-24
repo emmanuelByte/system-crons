@@ -1388,3 +1388,4 @@ civilians
 wintering
 cations
 recurrences
+retrench
