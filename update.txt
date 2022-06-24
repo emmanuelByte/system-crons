@@ -2092,3 +2092,4 @@ conservatism
 Angoras
 stonework
 implode
+planetarium
