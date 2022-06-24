@@ -1529,3 +1529,4 @@ Sanskrit
 welcome
 degree
 magnet
+Lollobrigida
