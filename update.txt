@@ -2213,3 +2213,4 @@ nips
 diphthongs
 colder
 clunk
+barrelled
