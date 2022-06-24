@@ -1126,3 +1126,4 @@ jinx
 secrete
 convictions
 alkalis
+shebang's
