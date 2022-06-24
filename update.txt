@@ -1467,3 +1467,4 @@ espressos
 angstrom's
 mountaintop's
 signature's
+diametrical
