@@ -1132,3 +1132,4 @@ caddy
 stentorian
 Napoleonic's
 zinging
+minuscule
