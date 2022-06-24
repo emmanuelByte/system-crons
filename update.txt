@@ -1531,3 +1531,4 @@ degree
 magnet
 Lollobrigida
 greedy
+foretold
