@@ -1712,3 +1712,4 @@ gambits
 Jacobs
 plumping
 Thelma
+monosyllabic
