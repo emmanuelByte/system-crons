@@ -2568,3 +2568,4 @@ cutoff
 assizes
 Sindbad's
 chart
+trumped
