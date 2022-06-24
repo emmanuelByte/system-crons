@@ -880,3 +880,4 @@ cheered
 escalators
 hilltop
 subheadings
+Americanisms
