@@ -1748,3 +1748,4 @@ reactivate
 Thutmose
 gawkiness
 legalese
+slipperier
