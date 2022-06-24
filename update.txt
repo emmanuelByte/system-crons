@@ -1543,3 +1543,4 @@ lynched
 galvanize
 Cerberus's
 heartening
+picket
