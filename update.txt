@@ -816,3 +816,4 @@ insatiable
 fixable
 Camry
 nonevent
+straights
