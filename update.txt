@@ -1058,3 +1058,4 @@ catechize
 intervenes
 preceptors
 radar's
+easel
