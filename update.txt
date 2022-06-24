@@ -1376,3 +1376,4 @@ quibblers
 hexameters
 malingered
 grandiloquent
+chock
