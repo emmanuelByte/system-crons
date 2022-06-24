@@ -2459,3 +2459,4 @@ absurd
 hotheadedness
 purge's
 nitwit's
+Slackware's
