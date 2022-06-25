@@ -2696,3 +2696,4 @@ clang
 switchblade
 requisite
 numbest
+brawler's
