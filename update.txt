@@ -2697,3 +2697,4 @@ switchblade
 requisite
 numbest
 brawler's
+whammies
