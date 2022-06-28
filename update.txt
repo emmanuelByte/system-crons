@@ -2767,3 +2767,4 @@ scansion's
 halftimes
 syrupy
 satyr
+imbuing
