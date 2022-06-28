@@ -2775,3 +2775,4 @@ entry
 torpedoing
 Hockney's
 correction
+distensions
