@@ -12,7 +12,7 @@ function genCronString() {
     const day = new Date().getDay();
     cron.schedule(cronExp, () => {
         //console.log('running a task every 1 hour');
-        // shell.exec("./githubcron.sh");
+        shell.exec("./githubcron.sh");
         const newDay = new Date().getDay();
         if (day !== newDay) {
             cron.stop();
