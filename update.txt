@@ -2865,3 +2865,4 @@ crudeness's
 chiaroscuro's
 vesicle's
 sundered
+declensions
