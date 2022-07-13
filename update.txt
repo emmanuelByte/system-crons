@@ -2884,3 +2884,4 @@ stringers
 Earhart's
 wiggle
 feint
+extoll
