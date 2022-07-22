@@ -2910,3 +2910,4 @@ bifurcating
 Parker
 checkpoints
 Alfredo's
+adapt
