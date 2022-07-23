@@ -2912,3 +2912,4 @@ checkpoints
 Alfredo's
 adapt
 krone's
+coyotes
