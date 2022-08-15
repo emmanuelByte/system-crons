@@ -2982,3 +2982,4 @@ optic
 devised
 Almach
 skywriting's
+Thor
