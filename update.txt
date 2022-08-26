@@ -3016,3 +3016,4 @@ sizing
 tensor
 Sprint
 staircase's
+regurgitates
